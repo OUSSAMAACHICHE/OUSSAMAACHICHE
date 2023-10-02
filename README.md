@@ -1,5 +1,5 @@
 # Hi there 😊🙋‍♂️
-I'm [oussama_ach] A frontend developer 👌
+I'm [ oussama_ach ] A frontend developer 👌
 
 ## About Me
 - 🚀 Enthusiastic about building sleek and user-friendly interfaces.
@@ -12,4 +12,3 @@ I'm [oussama_ach] A frontend developer 👌
   ## Get in Touch
 - 📫 Reach me via [My Email](novcom099@gmail.com)
 - 🔗 Connect with me on [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/oussama-achi-b6b281294/)https://www.linkedin.com/in/oussama-achi-b6b281294/)
-- 
