@@ -11,4 +11,4 @@ I'm [ oussama_ach ] A frontend developer 👌
 
   ## Get in Touch
 - 📫 Reach me via [My Email](novcom099@gmail.com)
-- 🔗 Connect with me on [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/oussama-achi-b6b281294/)https://www.linkedin.com/in/oussama-achi-b6b281294/)
+- 🔗 Connect with me on [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/oussama-achi-b6b281294/)
